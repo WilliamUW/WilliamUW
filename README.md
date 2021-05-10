@@ -1,4 +1,4 @@
-### Hi there 👋, I'm William!
+### Hi there 👋, my name is William!
 
 You can check out [my website (williamw.me)](https://williamuw.github.io "My Personal Website") for a summary of my side projects and other relevant information.
 
