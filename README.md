@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm William!
 
-You can check out [my website](https://williamuw.github.io "My personal website") ([williamw.me](https://williamuw.github.io "My personal website")) for a summary of my side projects and other relevant information.
+You can check out [my website (williamw.me)](https://williamuw.github.io "My Personal Website") ([williamw.me](https://williamuw.github.io "My Personal Website")) for a summary of my side projects and other relevant information.
 
 I am currently in my 2A term studying CS at Waterloo, and my interests are fixing electronics, monitoring stock prices, and I am a fan of the musical Hamilton.
 
