@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm William!
+
+You can check out [my website](https://www.google.com "My personal website") for a summary of my side projects and other relevant information.
+
+I am currently in my 2A term studying CS at Waterloo, and my interests are fixing electronics, monitoring stock prices, and I am a fan of the musical Hamilton.
 
 <!--
 **WilliamUW/WilliamUW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
