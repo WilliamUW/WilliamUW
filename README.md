@@ -2,7 +2,7 @@
 
 You can check out [my website (williamw.me)](https://williamuw.github.io "My Personal Website") for a summary of my side projects and other relevant information.
 
-I am in my 2nd year studying CS at Waterloo, and my interests are fixing electronics, monitoring stock prices, and I am a fan of the musical Hamilton.
+I am in my 2nd year studying CS at Waterloo, and my interests are fixing electronics, monitoring stock prices, and improving the lives of others through technology.
 
 <!--
 **WilliamUW/WilliamUW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
