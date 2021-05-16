@@ -4,10 +4,11 @@ Feel free to check out [my website (williamw.me)](https://williamuw.github.io "M
 
 I am in my 2A term studying CS at Waterloo, and my interests are fixing electronics, monitoring stock prices, and improving the lives of others through technology!
 
-[![williamuw's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamuw)](https://github.com/williamuw/github-readme-stats)
-
 <!--
 **WilliamUW/WilliamUW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![williamuw's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamuw)](https://github.com/williamuw/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
