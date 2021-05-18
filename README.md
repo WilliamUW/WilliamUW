@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm William!
+### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm William! 
 
 Feel free to check out [my website (williamw.me)](https://williamuw.github.io "My Personal Website") where I showcase my passion for technology in addition to a brief summary of my side projects.
 
