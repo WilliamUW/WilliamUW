@@ -2,7 +2,7 @@
 
 Feel free to check out [my website (williamw.me)](https://williamuw.github.io "My Personal Website") where I showcase my passion for technology in addition to a brief summary of my side projects.
 
-I am in my 2A term studying CS at Waterloo, and my interests are fixing electronics, monitoring stock prices, and improving the lives of others through technology!
+I am in my 2A term studying Computer Science at Waterloo, and my interests are fixing electronics, monitoring stock prices, and improving the lives of others through technology!
 
 <!--
 **WilliamUW/WilliamUW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
