@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm William! 😄
 
-Feel free to check out [my website (williamw.me)](https://williamuw.github.io "My Personal Website") where I showcase my passion for technology along with a brief summary of my side projects.
+Feel free to check out [my website (https://williamuw.github.io)](https://williamuw.github.io "My Personal Website") where I showcase my passion for technology along with a brief summary of my side projects.
 
 I am in my 2A term studying Computer Science at Waterloo, and my interests are fixing electronics, monitoring stock prices, and improving the lives of others through technology!
 
