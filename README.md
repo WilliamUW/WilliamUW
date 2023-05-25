@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm William! 😄
+# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, my name is William! 😄
 
 ## <p>VC @ BDC | RippleX | TechStars x Kauffman Fellows | 15x Hackathon Winner | 4x SWE | CS @ UWaterloo</p>
 
