@@ -17,4 +17,3 @@ I am in my 3B term studying Computer Science at Waterloo. I love musicals, inves
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamuw&" alt="williamuw" /></p>
 
-[![williamuw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williamuw)](https://github.com/anuraghazra/github-readme-stats)
