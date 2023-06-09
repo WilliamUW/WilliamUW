@@ -2,7 +2,7 @@
 
 ## <p>VC @ BDC | RippleX | TechStars x Kauffman Fellows | 15x Hackathon Winner | 4x SWE | CS @ UWaterloo</p>
 
-Feel free to check out [my website (https://williamuw.github.io)](https://williamuw.github.io "My Personal Website") where I showcase my passion for technology along with a brief summary of my side projects.
+Feel free to check out https://williamwangme.netlify.app/ where I showcase my passion for technology along with a brief summary of my side projects.
 
 I am in my 3B term studying Computer Science at Waterloo. I love musicals, investing, and improving the lives of others through technology!
 
