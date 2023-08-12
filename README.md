@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, my name is William! 😄
 
-## <p>VC @ BDC | RippleX | TechStars x Kauffman Fellows | 15x Hackathon Winner | 4x SWE | CS @ UWaterloo</p>
+## <p>VC @ BDC | RippleX | Consensys & XRP Ambassador | Solana Global Fellow | 19x Hackathon Winner | 4x SWE | CS @ UWaterloo</p>
 
 Feel free to check out https://williamwangme.netlify.app/ where I showcase my passion for technology along with a brief summary of my side projects.
 
