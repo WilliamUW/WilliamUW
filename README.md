@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, my name is William! 😄
 
-## <p>Incoming @ Bloomberg | 50x Hackathon Winner | 6x SWE, 3x VC Intern | CS @ UWaterloo</p>
+## <p>SWE Intern @ Bloomberg | 56x Hackathon Winner | 6x SWE, 3x VC Intern | CS @ UWaterloo</p>
 
 Feel free to check out https://williamwangme.netlify.app/ where I showcase my passion for technology along with a brief summary of my side projects.
 
