@@ -7,7 +7,8 @@ Feel free to check out https://williamwangme.netlify.app/ where I showcase my pa
 I love musicals, investing, and improving the lives of others through technology!
 
 ## Languages and Tools:
-<table align="left">
+
+<table>
   <tr>
     <td>
       <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
@@ -58,11 +59,15 @@ I love musicals, investing, and improving the lives of others through technology
   </tr>
 </table>
 
+<br clear="both" />
+
 ## Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamuw&show_icons=true&locale=en&layout=compact" alt="williamuw" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamuw&show_icons=true&locale=en&layout=compact" alt="williamuw" />
+  <img src="https://github-readme-stats.vercel.app/api?username=williamuw&show_icons=true&locale=en" alt="williamuw" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williamuw&show_icons=true&locale=en" alt="williamuw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamuw&" alt="williamuw" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williamuw&" alt="williamuw" />
+</p>
